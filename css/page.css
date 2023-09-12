@@ -23,7 +23,6 @@
 }
 .page-desktop-menu {
   flex: 1;
-  display: flex;
   position: relative;
   justify-content: flex-start;
 }
