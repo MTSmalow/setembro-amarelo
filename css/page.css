@@ -23,8 +23,12 @@
 }
 .page-desktop-menu {
   flex: 1;
+  display: flex;
   position: relative;
   justify-content: flex-start;
+}
+.page-desktop-menu {
+  display: -webkit-inline-box;
 }
 .page-nav {
   gap: var(--dl-space-space-twounits);
