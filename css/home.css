@@ -364,7 +364,7 @@
   line-height: 27px;
 }
 .home-container2 {
-  width: 549px;
+  width: 100%;
   height: auto;
   display: flex;
   align-items: center;
