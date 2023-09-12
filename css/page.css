@@ -158,9 +158,6 @@
   height: var(--dl-size-size-xsmall);
 }
 @media(max-width: 991px) {
-  .page-desktop-menu {
-    display: none;
-  }
   .page-btn-group {
     display: none;
   }
