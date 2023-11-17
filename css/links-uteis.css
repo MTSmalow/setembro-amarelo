@@ -15,50 +15,51 @@
           "semanticType":"div",
           "referencedStyles": {}
 
-         
-          }
 
-          ,
-          "children":[]
         }
+
+        ,
+        "children":[]
       }
     }
-
-    ],
-    "components": {}
-
-    ,
-    "usedDesignTokens": {}
-
-    ,
-    "usedTextStyles": {}
-
-    ,
-    "usedClasses": {}
-
-    ,
-    "globals": {
-      "settings": {
-        "title": "exported component", "language":"english"
-      }
-
-      
-      "meta":[],
-      "assets":[]
-    }
-
-    
-    "assetNames": {}
   }
 
-  ;
-  width: 100%;
-  display: flex;
-  overflow: auto;
-  min-height: 100vh;
-  flex-direction: column;
-  background-color: #27272D;
-        }
+  ],
+  "components": {}
+
+  ,
+  "usedDesignTokens": {}
+
+  ,
+  "usedTextStyles": {}
+
+  ,
+  "usedClasses": {}
+
+  ,
+  "globals": {
+    "settings": {
+      "title": "exported component", "language":"english"
+    }
+
+
+    "meta":[],
+    "assets":[]
+  }
+
+
+  "assetNames": {}
+}
+
+;
+width: 100%;
+display: flex;
+overflow: auto;
+min-height: 100vh;
+flex-direction: column;
+background-color: #27272D;
+}
+
 .links-uteis-hero {
   gap: var(--dl-space-space-fiveunits);
   width: 100%;
@@ -70,7 +71,7 @@
   padding-right: var(--dl-space-space-fiveunits);
   flex-direction: column;
   padding-bottom: var(--dl-space-space-sixunits);
-  }
+}
 
 .links-uteis-heading {
   gap: var(--dl-space-space-twounits);
@@ -131,5 +132,5 @@
 }
 
 .llink {
-  color:darkgoldenrod;
+  color: darkgoldenrod;
 }
